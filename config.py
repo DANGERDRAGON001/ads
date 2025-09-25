@@ -46,7 +46,7 @@ ENCRYPTION_KEY = "RnVa0xtPfK1pm3qu_POAvFI9qkSyISKFShE37_JSQ2w="
 # Database Configuration
 MONGO_URI = os.getenv(
     "MONGO_URI",
-    "mongodb+srv://a80678345_db_user:ARSHTYAGI1@cluster0.icebvlp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    "mongodb+srv://knight_rider:GODGURU12345@knight.jm59gu9.mongodb.net/?retryWrites=true&w=majority"
 )
 DB_NAME = "adsbot_db"
 
